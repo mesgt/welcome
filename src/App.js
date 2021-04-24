@@ -1,5 +1,6 @@
 import { ChatEngine } from 'react-chat-engine';
 import ChatFeed from './components/ChatFeed';
+// import MessageForm from './components/MessageForm';
 import './App.css';
 
 const App = () => {
